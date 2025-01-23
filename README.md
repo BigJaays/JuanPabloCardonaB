@@ -1,6 +1,6 @@
 ## Juan Pablo Cardona Bedoya
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+Student)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
