@@ -1,4 +1,4 @@
-## Juan Pablo Cardona Bedoya
+<p align = center color = purple> Juan Pablo Cardona Bedoya</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+Student)](https://git.io/typing-svg)
 
