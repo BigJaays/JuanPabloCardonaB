@@ -1,6 +1,10 @@
-<a href="https://git.io/typing-svg"><img align = center src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&repeat=false&width=435&lines=Juan+Pablo+Cardona+Bedoya" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&repeat=false&width=435&lines=Juan+Pablo+Cardona+Bedoya" alt="Typing SVG" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+Student)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D02F7&center=true&vCenter=true&width=435&lines=3rd-year+Software+Engineering;University+of+Medell%C3%ADn+Student)](https://git.io/typing-svg)
+</p>
+
+
 
 
 Here are some ideas to get you started:
