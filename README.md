@@ -5,9 +5,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Current skills: Python programing, databases managment on MySQL and full stack basics
 - 🌱 I’m currently learning React
 - 🎯 Future Goals: Learning C++ or Java and deepening my full stack web development skills to become a well-rounded Developer.
